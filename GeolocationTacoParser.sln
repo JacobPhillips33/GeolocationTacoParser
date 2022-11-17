@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeolocationTacoParser", "GeolocationTacoParser\GeolocationTacoParser.csproj", "{AF948343-4E12-44A3-895B-82EE8CD81FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeolocationTacoParser.Test", "GeolocationTacoParser.Test\GeolocationTacoParser.Test.csproj", "{AAEBE325-68A4-4421-8A08-E23C0F0238D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF948343-4E12-44A3-895B-82EE8CD81FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF948343-4E12-44A3-895B-82EE8CD81FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF948343-4E12-44A3-895B-82EE8CD81FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF948343-4E12-44A3-895B-82EE8CD81FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEBE325-68A4-4421-8A08-E23C0F0238D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEBE325-68A4-4421-8A08-E23C0F0238D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEBE325-68A4-4421-8A08-E23C0F0238D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEBE325-68A4-4421-8A08-E23C0F0238D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A818697-EEE8-4745-9DDB-F9B3807E8A6A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\bin\Debug\net6.0\GeolocationTacoParser.exe
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\bin\Debug\net6.0\GeolocationTacoParser.deps.json
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\bin\Debug\net6.0\GeolocationTacoParser.runtimeconfig.json
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\bin\Debug\net6.0\GeolocationTacoParser.dll
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\bin\Debug\net6.0\GeolocationTacoParser.pdb
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\bin\Debug\net6.0\GeoCoordinate.NetCore.dll
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.csproj.CopyComplete
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.dll
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\refint\GeolocationTacoParser.dll
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.pdb
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\GeolocationTacoParser.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Repos\GeolocationTacoParser\GeolocationTacoParser\obj\Debug\net6.0\ref\GeolocationTacoParser.dll

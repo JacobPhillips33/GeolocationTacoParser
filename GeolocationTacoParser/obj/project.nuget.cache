@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRS5N97Iyce+jC/yuir4jusIwPW0A1n8dI1+r9hhIdbbpWoM4cqlG1BFeaa9saO5QEYg05e+j5fLA2q+ROgm2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jake\\Desktop\\Repos\\GeolocationTacoParser\\GeolocationTacoParser\\GeolocationTacoParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jake\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
